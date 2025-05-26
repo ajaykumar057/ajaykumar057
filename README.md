@@ -41,8 +41,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaykumar&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykumar&layout=compact&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaykumar057&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykumar057&layout=compact&theme=radical" height="180">
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 📫 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com)
-- 💻 [GitHub](https://github.com/ajaykumar)
+- 💻 [GitHub](https://github.com/ajaykumar057)
 
 ---
 
