@@ -8,14 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=ajaykumar057&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ajaykumar057?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML-brightgreen?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-Jaipur,%20Rajasthan-success?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Lives-Behror,%20Rajasthan-success?style=for-the-badge" alt="Location" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-👋 **Hey there!** I'm a passionate Computer Science student from Jaipur, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
+👋 **Hey there!** I'm a passionate Computer Science student from Behror, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
 
 🎓 **Education:** Currently pursuing Computer Science with specialization in Artificial Intelligence and Machine Learning
 
@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ajaykumar057&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykumar057&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -97,6 +97,19 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajaykumar057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ajaykumar057/ai-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ajaykumar057/web-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=web-app&theme=tokyonight" />
+  </a>
 </div>
 
 ---
@@ -167,7 +180,7 @@ Check out my latest articles on [Hashnode](https://ajay-ai.hashnode.dev/) where 
   <a href="https://ajay-ai.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog" />
   </a>
-  <a href="mailto:ajayk780191@gmail.com">
+  <a href="mailto:ajay@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
