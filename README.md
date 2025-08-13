@@ -105,7 +105,7 @@
 
 <div align="center">
   <a href="https://github.com/ajaykumar057/ai-project">
-    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonigh](https://mindease-app-eyna-git-main-ajays-projects-cfbb1a47.vercel.app/journal)t" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonigh](https://mindease-app-eyna-git-main-ajays-projects-cfbb1a47.vercel.app/journal" />
   </a>
   <a href="https://github.com/ajaykumar057/web-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=web-app&theme=tokyonight" />
