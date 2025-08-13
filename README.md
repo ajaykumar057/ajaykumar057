@@ -13,6 +13,19 @@
 
 ---
 
+## 🎯 Quick Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumar057&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaykumar057&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaykumar057&theme=tokyonight" alt="Repos Per Language" />
+</div>
+
+---
+
 ## 🚀 About Me
 
 👋 **Hey there!** I'm a passionate Computer Science student from Behror, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
@@ -81,6 +94,10 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajaykumar057&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykumar057&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ajaykumar057&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
