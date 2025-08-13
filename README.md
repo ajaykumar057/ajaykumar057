@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ajaykumar057&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ajaykumar057?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML-brightgreen?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-Behror,%20Rajasthan-success?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Lives-Jaipur,%20Rajasthan-success?style=for-the-badge" alt="Location" />
 </div>
 
 ---
