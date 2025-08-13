@@ -101,19 +101,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ajaykumar057/ai-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ajaykumar057/web-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=web-app&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ## 💼 Experience & Achievements
 
 - 🎓 **Computer Science Student** - Currently pursuing my degree with focus on AI/ML
