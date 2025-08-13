@@ -114,19 +114,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ajaykumar057/ai-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ajaykumar057/web-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=web-app&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ## 💼 Experience & Achievements
 
 - 🎓 **Computer Science Student** - Currently pursuing my degree with focus on AI/ML
@@ -207,6 +194,18 @@ Check out my latest articles on [Hashnode](https://ajay-ai.hashnode.dev/) where 
 </div>
 
 ---
+
+---
+
+## 🐙 GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/ajaykumar057?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/en/ajaykumar057" alt="3D Contribution Graph" />
+</div>
 
 ---
 
