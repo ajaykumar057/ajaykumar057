@@ -84,10 +84,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajaykumar057&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykumar057&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
@@ -97,6 +93,19 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajaykumar057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ajaykumar057/ai-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ajaykumar057/web-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=web-app&theme=tokyonight" />
+  </a>
 </div>
 
 ---
@@ -181,12 +190,6 @@ Check out my latest articles on [Hashnode](https://ajay-ai.hashnode.dev/) where 
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ajaykumar057/ajaykumar057/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
