@@ -15,26 +15,21 @@
 
 ## 🚀 About Me
 
-```javascript
-const ajay = {
-    pronouns: "He/Him",
-    location: "Behror, Rajasthan, India",
-    education: "Computer Science Student",
-    currentFocus: ["Full-Stack Development", "Machine Learning", "AI Research"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    askMeAbout: ["Web Dev", "Python", "AI/ML", "Data Science", "Tech Trends"],
-    technologies: {
-        frontEnd: ["React", "JavaScript", "HTML5", "CSS3"],
-        backEnd: ["Python", "Node.js", "Express"],
-        databases: ["MySQL", "MongoDB"],
-        aiMl: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
-        devOps: ["Docker", "Jenkins", "Git"],
-        tools: ["VS Code", "Jupyter", "Google Colab", "Jira", "Asana"]
-    },
-    currentlyLearning: ["Deep Learning", "Cloud Computing", "Microservices"],
-    collaborateOn: ["Open Source Projects", "AI/ML Research", "Web Applications"]
-};
-```
+👋 **Hey there!** I'm a passionate Computer Science student from Behror, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
+
+🎓 **Education:** Currently pursuing Computer Science with specialization in Artificial Intelligence and Machine Learning
+
+💻 **What I Do:** I'm a Full-Stack Developer who loves building end-to-end web applications and exploring the fascinating world of AI/ML
+
+🔍 **Current Focus:** Full-Stack Development, Machine Learning, and AI Research
+
+😄 **Fun Fact:** I debug with console.log() and I'm not ashamed!
+
+💬 **Ask Me About:** Web Development, Python, AI/ML, Data Science, and the latest Tech Trends
+
+🌱 **Currently Learning:** Deep Learning, Cloud Computing, and Microservices Architecture
+
+🤝 **Looking to Collaborate On:** Open Source Projects, AI/ML Research, and innovative Web Applications
 
 ---
 
@@ -155,11 +150,10 @@ Other        40 mins         █░░░░░░░░░░░░░░░░
 
 ## 📚 Latest Blog Posts
 
+Check out my latest articles on [Hashnode](https://ajay-ai.hashnode.dev/) where I share insights about AI, ML, and Full-Stack Development!
+
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First Neural Network with PyTorch](#)
-- [React Best Practices for Scalable Applications](#)
-- [Data Preprocessing Techniques in Machine Learning](#)
-- [Docker for Beginners: A Complete Guide](#)
+<!-- This section will be automatically updated with your latest Hashnode posts -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -177,20 +171,17 @@ Other        40 mins         █░░░░░░░░░░░░░░░░
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ajaykumar057">
+  <a href="https://www.linkedin.com/in/ajay-kumar-166b9824b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ajaykumar057">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://ajay-ai.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog" />
+  </a>
   <a href="mailto:ajay@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/ajaykumar057">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/ajaykumar057">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
 </div>
 
