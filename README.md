@@ -84,7 +84,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykumar057&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ajaykumar057&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
