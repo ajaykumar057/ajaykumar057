@@ -105,7 +105,7 @@
 
 <div align="center">
   <a href="https://github.com/ajaykumar057/ai-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonight" />
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonigh](https://mindease-app-eyna-git-main-ajays-projects-cfbb1a47.vercel.app/journal)t" />
   </a>
   <a href="https://github.com/ajaykumar057/web-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=web-app&theme=tokyonight" />
@@ -180,7 +180,7 @@ Check out my latest articles on [Hashnode](https://ajay-ai.hashnode.dev/) where 
   <a href="https://ajay-ai.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog" />
   </a>
-  <a href="mailto:ajay@example.com">
+  <a href="mailto:ajayk780191@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
