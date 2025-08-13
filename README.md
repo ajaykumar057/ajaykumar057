@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-👋 **Hey there!** I'm a passionate Computer Science student from Behror, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
+👋 **Hey there!** I'm a passionate Computer Science student from Jaipur, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
 
 🎓 **Education:** Currently pursuing Computer Science with specialization in Artificial Intelligence and Machine Learning
 
