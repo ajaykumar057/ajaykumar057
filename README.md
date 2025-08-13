@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ajaykumar057&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ajaykumar057?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML-brightgreen?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-Behror,%20Rajasthan-success?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Lives-Jaipur,%20Rajasthan-success?style=for-the-badge" alt="Location" />
 </div>
 
 ---
@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-👋 **Hey there!** I'm a passionate Computer Science student from Behror, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
+👋 **Hey there!** I'm a passionate Computer Science student from Jaipur, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
 
 🎓 **Education:** Currently pursuing Computer Science with specialization in Artificial Intelligence and Machine Learning
 
@@ -110,6 +110,19 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajaykumar057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ajaykumar057/ai-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ajaykumar057/web-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=web-app&theme=tokyonight" />
+  </a>
 </div>
 
 ---
@@ -197,14 +210,10 @@ Check out my latest articles on [Hashnode](https://ajay-ai.hashnode.dev/) where 
 
 ---
 
-## 🐙 GitHub Metrics
+## 🐍 Snake Animation
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ajaykumar057?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/en/ajaykumar057" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
