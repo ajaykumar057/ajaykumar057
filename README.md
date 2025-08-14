@@ -1,24 +1,25 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:0D1117&height=300&section=header&text=&fontSize=0&animation=twinkling" />
-  
-  <div style="position: relative; margin-top: -250px;">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Hi+there%2C+I'm+Ajay+Kumar+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI%2FML+Engineer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
-  </div>
-  
-  <div style="margin-top: -50px;">
-    <img src="https://github.com/ajaykumar057.png" width="150" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF50;" alt="Profile Picture" />
-  </div>
-</div>
-
-<div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=ajaykumar057&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ajaykumar057?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-00d9ff?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-Jaipur,%20Rajasthan-00d9ff?style=for-the-badge" alt="Location" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Developer Animation" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1e3a8a,100:0D1117&height=2&section=header" />
+  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837d9db819c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" alt="Coding Animation" />
+</div>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
+  Hi there, I'm Ajay Kumar
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajaykumar057&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ajaykumar057?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Lives-Jaipur,%20Rajasthan-success?style=for-the-badge" alt="Location" />
 </div>
 
 ---
