@@ -1,6 +1,10 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there, I'm Ajay Kumar
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=50" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
 
@@ -110,6 +114,19 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajaykumar057&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ajaykumar057/ai-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=ai-project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ajaykumar057/web-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajaykumar057&repo=web-app&theme=tokyonight" />
+  </a>
 </div>
 
 ---
