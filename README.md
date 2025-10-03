@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Quick Stats
+## Quick Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumar057&theme=tokyonight" alt="GitHub Profile Summary" />
@@ -33,44 +33,44 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-👋 **Hey there!** I'm a passionate Computer Science student from Jaipur, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
+ **Hey there!** I'm a passionate Computer Science student from Jaipur, Rajasthan, India, with a strong focus on AI/ML and Full-Stack Development.
 
-🎓 **Education:** Currently pursuing Computer Science with specialization in Artificial Intelligence and Machine Learning
+ **Education:** Currently pursuing Computer Science with specialization in Artificial Intelligence and Machine Learning
 
-💻 **What I Do:** I'm a Full-Stack Developer who loves building end-to-end web applications and exploring the fascinating world of AI/ML
+ **What I Do:** I'm a Full-Stack Developer who loves building end-to-end web applications and exploring the fascinating world of AI/ML
 
-🔍 **Current Focus:** Full-Stack Development, Machine Learning, and AI Research
+**Current Focus:** Full-Stack Development, Machine Learning, and AI Research
 
-😄 **Fun Fact:** I debug with console.log() and I'm not ashamed!
+**Fun Fact:** I debug with console.log() and I'm not ashamed!
 
-💬 **Ask Me About:** Web Development, Python, AI/ML, Data Science, and the latest Tech Trends
+ **Ask Me About:** Web Development, Python, AI/ML, Data Science, and the latest Tech Trends
 
-🌱 **Currently Learning:** Deep Learning, Cloud Computing, and Microservices Architecture
+ **Currently Learning:** Deep Learning, Cloud Computing, and Microservices Architecture
 
-🤝 **Looking to Collaborate On:** Open Source Projects, AI/ML Research, and innovative Web Applications
+ **Looking to Collaborate On:** Open Source Projects, AI/ML Research, and innovative Web Applications
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
-### 💻 Programming Languages
+###  Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,sql,html,css" />
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-### 🔧 Backend & Databases
+###  Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
-### 🤖 AI/ML & Data Science
+###  AI/ML & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -80,14 +80,14 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### ⚙️ DevOps & Tools
+###  DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,vscode" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 
-### 📋 Project Management
+###  Project Management
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white" />
@@ -96,7 +96,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajaykumar057&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
